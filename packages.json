@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : null,
+      "name" : "1.20.4 쉐이더",
+      "version" : "2024-02-03-22-11-35",
+      "location" : "1.20.4-shader.json",
+      "priority" : 0
+    }
+  ]
+}
