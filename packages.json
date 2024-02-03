@@ -3,9 +3,9 @@
   "packages" : [
     {
       "title" : null,
-      "name" : "1.20.4 쉐이더",
-      "version" : "2024-02-03-22-11-35",
-      "location" : "1.20.4-shader.json",
+      "name" : "1.20.4 최적화 쉐이더",
+      "version" : "2024-02-04-00-35-43",
+      "location" : "1.20.4-최적화-쉐이더.json",
       "priority" : 0
     }
   ]
