@@ -1,19 +1,12 @@
 {
-    "minimumVersion": 1,
-    "packages": [
-        {
-            "name": "Light Modpack",
-            "title": "Light Modpack",
-            "version": "20100223",
-            "location": "lightpack.json",
-            "priority": 1
-        },
-        {
-            "name": "Monster Modpack",
-            "title": "Monster Modpack",
-            "version": "20100223",
-            "location": "monsterpack.json",
-            "priority": 1
-        }
-    ]
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : null,
+      "name" : "1.20.4 쉐이더",
+      "version" : "2024-02-03-21-42-59",
+      "location" : "1.20.4 쉐이더.json",
+      "priority" : 0
+    }
+  ]
 }
