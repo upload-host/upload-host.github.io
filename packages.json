@@ -2,17 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : null,
-      "name" : "Y 서버",
-      "version" : "2024-02-14-04-19-04",
-      "location" : "Yserver.json",
-      "priority" : 0
-    },
-    {
-      "title" : null,
-      "name" : "1.20.4 최적화 쉐이더",
-      "version" : "2024-02-07-14-46-51",
-      "location" : "1.20.4-shader.json",
+      "title" : "배틀로얄",
+      "name" : "배틀로얄",
+      "version" : "2024-06-27-22-03-41",
+      "location" : "GunBattleRoyale.json",
       "priority" : 0
     }
   ]
